@@ -1,0 +1,11 @@
+ocr: pytesseract and google tesseract
+
+gui: pyqt probably
+
+screen read: pillow or look at sentdex-gta-driving
+
+setup a venv
+
+
+
+.\venv\scripts\activate.bat
